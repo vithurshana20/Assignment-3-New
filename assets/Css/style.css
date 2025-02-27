@@ -23,6 +23,11 @@
     color: #FF6F0F;
 }
 
+li a:hover{
+    background-color: #FF6F0F;
+
+}
+
 .num1 img {
     height: 500px;
     width: 500px;
